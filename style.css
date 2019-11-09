@@ -13,9 +13,9 @@ body{
 }
 
 .title{
-    float: left;
-    padding-left: 20px;
     font-weight: bold;
+    display: inline;
+
 }
 
 .number{
@@ -24,7 +24,12 @@ body{
     padding-right: 20px;
 }
 
-img{
+.profile{
+height: 30px;
+display: inline;
+padding: 10px;
+}
+.post{
     width: 100%;
 }
 
